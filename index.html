@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<title>Happy Teachers Day !</title>
+</head>
+<body>
+<div class="jumbotron text-center">
+<h1 style="color: Blue;">Happy Teachers Day !!!</h1>
+<h4 class="display-4">Fill below for greetings:</h4>
+<h5><mark>#OurTeachersOurHeroes</mark></h5>
+</div>
+<div class="container" id="form">
+<div class="form-group">
+<label for="usr">Enter name</label>
+<input type="text" class="form-control" placeholder="Enter name" id="name">
+</div>
+<div class="form-group">
+<label for="subjects">What subject do you take ?</label>
+<select class="form-control" id="subject">
+<option id="m" >Mathematics</option>
+<option id="e" >English</option>
+<option id="c" >Computer</option>
+<option id="h" >History</option>
+<option id="a" >Art & Drawing</option>
+<option id="hi" >Hindi</option>
+<option id="g" >Games & Sports</option>
+<option id="mu" >Music</option>
+<option id="ge" >Geography</option>
+<option id="ci" >Civics</option>
+<option id="b" >Biology</option>
+<option id="s" >Sanskrit</option>
+<option id="ch" >Chemistry</option>
+<option id="p" >Physics</option>
+<option id="o" >Other</option>
+</select>
+</div>
+<div class="form-group">
+<button class="btn btn-primary" onclick="onSubmit()">Submit</button>
+</div>
+</div>
+<div class="container d-none" id="content">
+<h2>Happy Teachers Day <span id="names" class="text-success"></span></h2>
+<h3>Thank you for teaching us <span id="subjectss" class="text-success"></span></h3>
+<div class="container">
+<img src="https://resize.indiatvnews.com/en/resize/newbucket/715_-/2020/09/happy-teachers-day-wish-1567560733-1599235817.jpg" class="rounded" alt="Source: India TV News."></img>
+<div class="container p-3 my-3 bg-dark text-white">
+<p id="con">
+</p>
+<i>Wishing you a Happy Teachers Day<i>
+</div>
+</div>
+</div>
+<footer>
+<div class="container">
+By Parth Agrawal.
+</div>
+</footer>
+<script src="script.js">
+</script>
+</body>
+</html>

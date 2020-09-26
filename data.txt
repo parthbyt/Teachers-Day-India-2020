@@ -1,0 +1,46 @@
+{"main": [{
+	"content": "<br> Internet will teach you in different ways, but a teacher will always tech you thre right and easiest way.<br>Thank you for teaching us Mathematics and help us <strong>UNDERSTAND</strong>",
+	"id": "m"
+}, {
+	"content": "English is an exciting language, stories in English are interesting, but only if are taught in exciting way. A teacher can only turn the pages of a book to a adventures stories.<br>Thank you for teaching us english and engaging us to the exciting world of the language.",
+	"id": "e"
+}, {
+	"content": "Computer was born to solve problems, now it is a problem to learn it. A computer teacher is unique, he just not teach the book but teach thepracticals which are better than text.<br>Thank you for teaching us computer and allowing us to enter the world of computers.",
+	"id": "c"
+}, {
+	"content": "History is large, past is widespread but a teacher will always teach it. A teacher will never refuse to answer a question.<br>Thank you for teaching us history and about the interesting past.",
+	"id": "h"
+}, {
+	"content": "A picture worth a thousand words. A art teacher proves it, and improves imagination.<br>Thank you for teaching us to draw, and impove our imagination.",
+	"id": "a"
+}, {
+	"content": "Hindi is a language spoken by heart, hindi is a language which is loved by the people.<br>Thank you for teaching us this extraordinary language.",
+	"id": "hi"
+}, {
+	"content": "Games and Sports is one of the subjects which most of us like. Getting to the playground is a awesome time spend.<br>Thank you for teching us to play, and keeping us Physically Fit in this time.",
+	"id": "g"
+}, {
+	"content": "Music is a thing which touches your heart. Listening to music can change your mind from sad to energitic.<br>Thank you for taking us to this dive of music.",
+	"id": "mu"
+}, {
+	"content": "Geography is everywhere in the earth. Geography helps you to understand the working and beauty of the world.<br>Thank you for teaching us geography and making us feel the importance of our precious earth.",
+	"id": "ge"
+}, {
+	"content": "Civics is the part which teaches us our responsibilities. Civics is the path of being a resposible citizen.<br>Thank you for helping us understand our constitution.",
+	"id": "ci"
+}, {
+	"content": "Biology is a subject which helps us understand ourselves and others. Biology is the key to protect us from diseases.<br>Thank you for helping us to know ourselves.",
+	"id": "b"
+}, {
+	"content": "Sanskrit is a language which is not casual. It is a language which always teach you something new.<br>Thank you for teaching us <i>Sanskrit</i>.",
+	"id": "s"
+}, {
+	"content": "Chemistry is subject which teaches working of everythng in the universe.<br>Thank you for teaching us this wonderfull subject.",
+	"id": "ch"
+}, {	
+	"content": "Physics always teach something new. Physics is a subject which has fun learning.<br>Thank you for teaching us a subject which is always new..",
+	"id": "p"
+}, {
+	"content": "A teacher is a person who can teach more than internet, better than internet and always what can't be taught by internet.<br>Thank you for making our journey of the studies exciting.",
+	"id": "o"
+}]}
