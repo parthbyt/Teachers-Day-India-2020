@@ -1,3 +1,7 @@
+//          Copyright Parth Agrawal 2020.
+// Distributed under the Boost Software License, Version 1.0.
+//    (See accompanying file LICENSE or copy at
+//          https://www.boost.org/LICENSE_1_0.txt)
 function onSubmit () {
 	name = document.getElementById("name").value;
 	subject = document.getElementById("subject")[document.getElementById("subject").selectedIndex].id;
